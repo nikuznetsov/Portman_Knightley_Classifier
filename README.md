@@ -8,3 +8,6 @@ Image classification of Natalie Portman and Keira Knightley
 - **resize.py** - short script for image resizing. Just in case.
 
 ##### Best achieved validation accuracy is 0.96.
+
+
+[![Example](https://github.com/nikuznetsov/Portman_Knightley_Classifier/blob/main/image.png "Example")](https://github.com/nikuznetsov/Portman_Knightley_Classifier/blob/main/image.png "Example")
